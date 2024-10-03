@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "7a755d5c06955e88",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a630a0c5616166d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08e9af594793fb71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "نحوهٔ دسترسی به دانشکده.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d07c8737b4b9a779",
+    "type": "split",
+    "children": [
+      {
+        "id": "50c8cb379eb6e3c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee1d5223ea46e08b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "22e0bb05a57c6226",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "258006e91d2ae304",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "32c19c7351e6183d",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7e78866326aba86",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7472c7b0a573ae54",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "نحوهٔ دسترسی به دانشکده.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "03d2db8ca1aad538",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "نحوهٔ دسترسی به دانشکده.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4c47fc17ffe70b48",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "56390a3a36dc4f7e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "نحوهٔ دسترسی به دانشکده.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "08e9af594793fb71",
+  "lastOpenFiles": [
+    "Static/نقشهٔ مترو.pdf",
+    "Static",
+    "New folder",
+    "نحوهٔ دسترسی به دانشکده.md"
+  ]
+}
